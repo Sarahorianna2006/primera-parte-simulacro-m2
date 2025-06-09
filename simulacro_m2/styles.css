@@ -1,0 +1,31 @@
+
+
+
+
+
+.menu_cursos{
+    display: flex;
+
+}
+.button_leer_entrada{
+    text-decoration: none;
+    background-color: black;
+    color: white;
+}
+
+.button_mas_informacion{
+    text-decoration: none;
+    background-color: rgb(97, 73, 29);
+    color: white;
+}
+
+.sobre_nosotros{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+footer{
+    background: black;
+}
